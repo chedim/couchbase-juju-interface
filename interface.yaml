@@ -1,0 +1,4 @@
+name: couchbase
+summary: Couchbase database interface
+version: 1
+repo: git@github.com:chedim/couchbase-juju-interface.git
